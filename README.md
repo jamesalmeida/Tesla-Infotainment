@@ -78,3 +78,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Also thanks to Vasilj Miloevi for the [loading screen circle animations](https://codepen.io/eboye/pen/ANPxVX) that I used for the loading screen.
 - Thanks to Patrick Stillhart for sharing the [OutRun video game on Codepen](https://codepen.io/arcs/pen/aGzNKY) that I refactored to work inside of the Arcade in this project.
 
+## License
+
+This project's source code is licensed under the [MIT License](LICENSE). The MIT license covers James's code only.
+
+Third-party assets credited above keep their own terms: the Sketchfab model, the loading animation, and the OutRun game.
+
