@@ -78,3 +78,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Also thanks to Vasilj Miloevi for the [loading screen circle animations](https://codepen.io/eboye/pen/ANPxVX) that I used for the loading screen.
 - Thanks to Patrick Stillhart for sharing the [OutRun video game on Codepen](https://codepen.io/arcs/pen/aGzNKY) that I refactored to work inside of the Arcade in this project.
 
+## License
+
+This repository's code is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). Anyone may use, change, and share it for noncommercial purposes with credit. Commercial use requires a separate license from James.
+
+Third-party assets credited above (the Sketchfab model, loading animation, and OutRun game) retain their own terms. This license covers only James's code.
+
