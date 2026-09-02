@@ -80,7 +80,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## License
 
-This repository's code is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). Anyone may use, change, and share it for noncommercial purposes with credit. Commercial use requires a separate license from James.
+This repository's code is licensed under the [MIT License](LICENSE). Anyone may use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, provided the copyright notice and permission notice are retained.
 
-Third-party assets credited above (the Sketchfab model, loading animation, and OutRun game) retain their own terms. This license covers only James's code.
+Third-party assets credited above still have their own terms until replaced (issues #4, #5, #6). MIT covers James's code only — not these assets:
+
+- Sketchfab Tesla 2018 Model 3 by Ameer Studio (CC-BY) — `public/car-models/tesla-model-3-2018.glb`
+- Loading-screen circles from CodePen (eboye/ANPxVX)
+- OutRun arcade from CodePen (arcs/aGzNKY) plus hotlinked S3 assets
 
